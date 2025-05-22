@@ -138,10 +138,9 @@ if __name__ == '__main__':
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/6fdf03d5-4a78-4ca0-9feb-d275005c1cac)
+![image](https://github.com/user-attachments/assets/5870c320-160c-4731-8681-c226f327021d)
 
 
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
-
